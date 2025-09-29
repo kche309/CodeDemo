@@ -1,4 +1,4 @@
 # CodeDemo
 Demonstrating pull requests
 
-Hello Demo, testing fork.
+Hi all! Hello Demo, testing fork.
