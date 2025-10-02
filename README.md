@@ -13,6 +13,9 @@ Hi all! Hello Demo, testing fork.
 
 * [How to sync fork with master](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 
+## Git merge
+* [How to resolve merge conflicts using IntelliJ](https://www.youtube.com/watch?v=WgipWkaU2MM) - A video tutorial
+
 ## Git branches
 
 * [How to create a branch](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
